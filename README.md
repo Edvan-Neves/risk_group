@@ -1,5 +1,5 @@
 # risk_group
-Desafio final do modulo de fundamentos de big data do bootcamp de arquiteto de dados
+Desafio do modulo de fundamentos de big data do bootcamp de big data e data analysis 
 
 Uma operadora de seguro de saúde identificou na sua base de dados de clientes, a relação entre os dados de colesterol e peso com a incidência de problemas que 
 influenciam no desenvolvimento de doenças cardíacas. Pensando no bem-estar dos seus clientes, e ao mesmo tempo pensando em diminuir problemas de internação e 
